@@ -4,9 +4,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <archetypes>
     <archetype>
-  <groupId>com.zhang</groupId>
-  <artifactId>ai-agent-scaffold-archetype</artifactId>
-  <version>1.1</version>
+      <groupId>com.zhang</groupId>
+      <artifactId>ai-agent-scaffold-archetype</artifactId>
+      <version>1.1</version>
+      <description>我的 AI Agent 自定义脚手架</description>
     </archetype>
   </archetypes>
 </archetype-catalog>
